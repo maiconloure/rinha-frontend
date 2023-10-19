@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rinha-frontend/static/css/main.a453c974.css",
+    "main.js": "/rinha-frontend/static/js/main.c7b7cb5d.js",
+    "index.html": "/rinha-frontend/index.html",
+    "main.a453c974.css.map": "/rinha-frontend/static/css/main.a453c974.css.map",
+    "main.c7b7cb5d.js.map": "/rinha-frontend/static/js/main.c7b7cb5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a453c974.css",
+    "static/js/main.c7b7cb5d.js"
+  ]
+}
